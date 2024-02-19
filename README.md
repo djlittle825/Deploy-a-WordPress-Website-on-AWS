@@ -55,3 +55,7 @@ The architecture of the WordPress website hosting on AWS consists of the followi
 15. **Bastion Host**:
     - Used to access the private network for application installation.
 
+Repository: The reference diagram and deployment scripts for this project are available in the GitHub repository. Please refer to the repository for detailed instructions on deploying the static website on AWS infrastructure.
+
+Conclusion: By following the instructions and utilizing the provided resources, you can successfully deploy a WordPress website on AWS, ensuring high availability, security, and scalability, database management, file storage.
+
