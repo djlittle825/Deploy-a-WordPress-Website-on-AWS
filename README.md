@@ -1,8 +1,6 @@
 # DevOps Project: WordPress Website Hosting on AWS
 
-## Overview
-
-This project aims to deploy a WordPress website on Amazon Web Services (AWS) using various AWS services and best practices in DevOps. Below is a detailed guide on the architecture and deployment process.
+**Overview**: This project aims to deploy a WordPress website on Amazon Web Services (AWS) using various AWS services and best practices in DevOps. Below is a detailed guide on the architecture and deployment process.
 
 ## Architecture
 
