@@ -2,9 +2,7 @@
 
 **Overview**: This project aims to deploy a WordPress website on Amazon Web Services (AWS) using various AWS services and best practices in DevOps. Below is a detailed guide on the architecture and deployment process.
 
-## Architecture
-
-The architecture of the WordPress website hosting on AWS consists of the following components:
+**Deployment Steps:**
 
 1. **Virtual Private Cloud (VPC)**:
    - Configured with public and private subnets across two availability zones for enhanced reliability and fault tolerance.
